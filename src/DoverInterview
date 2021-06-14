@@ -1,0 +1,12 @@
+import java.util.*;
+
+class DoverInterview{
+    int doverStart;
+    public DoverInterview{
+        this.doverStart = 0;
+    }
+
+    public static void main(String[] args){
+        System.out.println("DoverStart value is :"+this.doverStart);
+    }
+}
