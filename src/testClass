@@ -1,3 +1,6 @@
 import java.util.*;
 
-System.out.println("testing git);
+class TestClass{
+    System.out.println("testing git);
+    //
+}
